@@ -1,0 +1,6 @@
+@NajdAPI_HostAddress = http://localhost:5104
+
+GET {{NajdAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
